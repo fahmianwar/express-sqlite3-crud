@@ -1,0 +1,29 @@
+{
+  "name": "express-sqlite3-crud",
+  "version": "1.0.0",
+  "description": "CRUD NodeJS ExpressJS SQLite",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahmianwar/express-sqlite3-crud.git"
+  },
+  "keywords": [
+    "crud",
+    "nodejs",
+    "sqlite",
+    "expressjs"
+  ],
+  "author": "Fahmi Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahmianwar/express-sqlite3-crud/issues"
+  },
+  "homepage": "https://github.com/fahmianwar/express-sqlite3-crud#readme"
+}
